@@ -1,0 +1,11 @@
+{
+  "name": "@remy/latest-tweet",
+  "version": "1.0.1",
+  "description": "Get the latest tweets for a user",
+  "main": "index.js",
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Remy Sharp (https://remysharp.com)",
+  "license": "MIT"
+}
